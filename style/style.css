@@ -7,9 +7,14 @@ body {
   text-align: center;
   width: 400px;
   height: 300px;
-  border: grove;
-  border-color: grey;
+  border-style: : groove;
+  border-color: lightgrey;
   overflow: auto;
+}
+
+img {
+  width: 400px;
+  height: 300px;
 }
 
 ul {
@@ -20,5 +25,5 @@ ul {
 ul > li {
 width: auto;
 list-style: none;
-float: inherit;
+float: left;
 }
