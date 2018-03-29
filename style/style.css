@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+  color: lightblue;
+}
+
+.myCarousel {
+  text-align: center;
+  width: 400px;
+  height: 300px;
+  border: grove;
+  border-color: grey;
+  overflow: auto;
+}
+
+ul {
+  width: 1600px;
+  list-style: none;
+}
+
+ul > li {
+width: auto;
+list-style: none;
+float: inherit;
+}
