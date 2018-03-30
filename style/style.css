@@ -7,7 +7,7 @@ body {
   text-align: center;
   width: 400px;
   height: 300px;
-  border-style: : groove;
+  border-style: groove;
   border-color: lightgrey;
   overflow: auto;
 }
